@@ -12,7 +12,7 @@ baseurl: "/bamboo-college"         # for example, '/blog' if your blog hosted on
 
 # SNS settings
 RSS: false
-weibo_username:     huxpro
+weibo_username:     bamboo-college
 zhihu_username:     bamboo-college
 github_username:    zhengb087
 #twitter_username:  huxpro

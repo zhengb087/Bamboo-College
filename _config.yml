@@ -12,9 +12,9 @@ baseurl: "/bamboo-college"         # for example, '/blog' if your blog hosted on
 
 # SNS settings
 RSS: false
-weibo_username:    207836787
+weibo_username:    bamboocollege
 zhihu_username:     bamboo-college
-#github_username:    zhengb087
+github_username:    zhengb087
 #twitter_username:  huxpro
 #facebook_username:  bamboo-college
 
@@ -50,7 +50,7 @@ kramdown:
 #disqus_username: _your_disqus_short_name_
 
 # Duoshuo settings
-duoshuo_username: Bamboo
+duoshuo_username: B&College
 # Share component is depend on Comment so we can NOT use share only.
 duoshuo_share: true                     # set to false if you want to use Comment without Sharing
 

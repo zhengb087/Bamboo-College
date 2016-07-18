@@ -50,7 +50,7 @@ kramdown:
 #disqus_username: _your_disqus_short_name_
 
 # Duoshuo settings
-duoshuo_username: huxblog
+duoshuo_username: Bamboo
 # Share component is depend on Comment so we can NOT use share only.
 duoshuo_share: true                     # set to false if you want to use Comment without Sharing
 
@@ -59,16 +59,16 @@ duoshuo_share: true                     # set to false if you want to use Commen
 
 # Analytics settings
 # Baidu Analytics
-ba_track_id: 4cc1f2d8f3067386cc5cdb626a202900
+#ba_track_id: 4cc1f2d8f3067386cc5cdb626a202900
 # Google Analytics
-ga_track_id: 'UA-49627206-1'            # Format: UA-xxxxxx-xx
-ga_domain: huangxuan.me
+#ga_track_id: 'UA-49627206-1'            # Format: UA-xxxxxx-xx
+#ga_domain: huangxuan.me
 
 
 
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
-sidebar-about-description: "我是Bamboo，毕业于北京清华大学，MSRA Student Alumni，竹子学院COO。\n 竹子学院是一个跨界学习社区，关注更科技、更创新、更可持续的商业，专为年轻公司人打造。"
+sidebar-about-description: "我是Bamboo，毕业于北京清华大学，MSRA Student Alumni，竹子学院COO。竹子学院是一个跨界学习社区，关注更科技、更创新、更可持续的商业，专为年轻公司人打造。"
 sidebar-avatar: https://zhengb087.github.io/bamboo-college/img/avatar-bamboo.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
 
 

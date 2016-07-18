@@ -58,7 +58,7 @@ JavaScript 有着很奇怪的命名史。
 * 如果你希望深入 ES6，这里有两本很不错的书： Axel Rauschmayer 的 [Exploring ES6](http://exploringjs.com/)和 Nicholas Zakas 的 [Understanding ECMAScript 6](https://leanpub.com/understandinges6)。Axel 的博客 [2ality](http://www.2ality.com/) 也是很不错的 ES6 资源
 
 <img class="shadow" width="320" src="/img/in-post/post-js-version/keep-calm-and-learn-javascript.png" />
-<small class="img-hint" src="/img/in-post/post-js-version/javascript-jave.jpg">来学 JavaScript 吧！</small>
+<small class="img-hint">来学 JavaScript 吧！</small>
 
 #### 著作权声明
 

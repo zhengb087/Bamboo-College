@@ -68,7 +68,7 @@ ga_domain: huangxuan.me
 
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
-sidebar-about-description: "我是Bamboo，毕业于清华大学，竹子学院的COO。
+sidebar-about-description: "我是Bamboo，毕业于清华大学，竹子学院的COO。\\
 竹子学院是一个跨界学习社区，关注更科技、更创新、更可持续的商业，专为年轻公司人打造。"
 sidebar-avatar: https://zhengb087.github.io/bamboo-college/img/avatar-bamboo.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
 

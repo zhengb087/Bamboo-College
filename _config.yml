@@ -1,7 +1,7 @@
 # Site settings
 title: Bamboo College
 SEOTitle: 竹子学院 | Bamboo College
-header-img: img/home-bg.jpg
+header-img: img/home-bg2.jpg
 email: zhengb06science@gmail.com
 description: "Cool College for Advanced Technologies"
 keyword: ""
@@ -16,7 +16,7 @@ weibo_username:     bamboo-college
 zhihu_username:     bamboo-college
 github_username:    zhengb087
 #twitter_username:  huxpro
-facebook_username:  huxpro
+facebook_username:  bamboo-college
 
 
 

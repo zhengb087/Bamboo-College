@@ -84,5 +84,5 @@ tags:
 
 #### 著作权声明
 
-本文转自 [刘铁岩：在微软大学的三次华丽转型](http://blog.sina.com.cn/s/blog_4caedc7a0102w57s.html/) 
+本文转自[微软亚洲研究院的博客](http://blog.sina.com.cn/msra) [刘铁岩：在微软大学的三次华丽转型](http://blog.sina.com.cn/s/blog_4caedc7a0102w57s.html/) 
 转载请保留以上链接

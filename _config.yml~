@@ -69,7 +69,7 @@ duoshuo_share: true                     # set to false if you want to use Commen
 
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
-sidebar-about-description: "写写时评，发发随感，希望竹子学院成为一个可以理性交流的跨界社区。我是Bamboo，毕业于北京清华大学，也是一名MSRA Alumni."
+sidebar-about-description: "写写时评，发发随感，读读闲书。希望竹子学院成为一个可以理性交流的跨界社区。我是Bamboo，一名MSRA Alumni,毕业于北京清华大学。我是文青，也是极客。"
 sidebar-avatar: https://zhengb087.github.io/bamboo-college/img/avatar-bamboo.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
